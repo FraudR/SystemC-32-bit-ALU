@@ -5,7 +5,7 @@
 SystemC 3.0.0 or equivalent
 
 # Compilation and Usage
-A makefile is provided. 
-Run 'make' to compile
-Run 'make run' to run
-Run 'make wave' to view waveform
+A makefile is provided.\
+Run 'make' to compile.\
+Run 'make run' to run.\
+Run 'make wave' to view waveform.\
